@@ -1,0 +1,3 @@
+https://wordpress.org/plugins/demomentsomtres-wp-export/
+
+This is very smart and useful plugin to export any kind of wordpress data with featured image.
