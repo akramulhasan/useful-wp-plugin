@@ -1,3 +1,11 @@
-https://wordpress.org/plugins/demomentsomtres-wp-export/
+1=> Export Plugin:
+   https://wordpress.org/plugins/demomentsomtres-wp-export/
 
-This is very smart and useful plugin to export any kind of wordpress data with featured image.
+   This is very smart and useful plugin to export any kind of wordpress data with    featured image.
+-------------------------
+
+1=> Image Zooming in Mobile:
+   https://wordpress.org/plugins/definitely-allow-mobile-zooming/
+
+   If you need to zoom images in mobile devices, then this plugin is best. Just    install and enjoy.
+-------------------------
